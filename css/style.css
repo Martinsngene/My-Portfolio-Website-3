@@ -54,6 +54,10 @@ body{
 	overflow-x: hidden;
 }
 
+#topHeader{
+	background: #8d99ae;
+}
+
 
 #mainNavbar .navbar-brand{
 
@@ -79,7 +83,7 @@ body{
 
 
 #headingText h2{
-	color: #6c757d;
+	color: #edf2f4;
 	font-size: 3rem;
 	font-weight: 100;
 }
@@ -185,6 +189,6 @@ a{
 }
 
 .my-card{
-	font-size: 1rem;
+	font-size: 0.5rem;
 }
 }
