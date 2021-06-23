@@ -47,9 +47,6 @@ table {
 	border-spacing: 0;
 }
 
-*{
-	overflow-x: hidden;
-}
 
 body{
 	background: #fff;
@@ -180,6 +177,14 @@ a{
 @media(max-width: 500px){
 
 	#headingText h2{
-	font-size: 2rem;
+	font-size: 1.7rem;
+}
+
+.header{
+	font-size: 1.4rem;
+}
+
+.my-card{
+	font-size: 1rem;
 }
 }
